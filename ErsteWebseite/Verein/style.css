@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: #EBF5FB;
+  }
+
+  h1 {
+    color: #1E8449;
+    color: red;
+  }
+
+  a {
+    color: #008080;
+  }
+
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .header {
+    background-color: #008080;
+    color: white;
+    padding: 1em;
+  }
+
+  .header h2 {
+    margin: 0;
+  }
+
+  .content {
+    padding: 2em;
+  }
+
+  .card {
+    background-color: white;
+    padding: 1em;
+    margin-bottom: 2em;
+  }
+
