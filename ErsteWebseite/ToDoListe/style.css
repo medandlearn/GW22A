@@ -1,0 +1,143 @@
+body { 
+
+        font-family: cambria; 
+    
+        color:darkblue; 
+    
+    } 
+    
+    h1 { 
+    
+        background-color: aliceblue; 
+    
+        border: 1px solid blue; 
+    
+        border-radius: 5%; 
+    
+        padding: 20 px; 
+    
+    } 
+    
+     
+    
+    .help { 
+    
+        background-color: silver; 
+    
+        border: 1px solid blue; 
+    
+        border-radius: 5%; 
+    
+        padding: 20 px; 
+    
+    } 
+    
+     
+    
+    ol>li { 
+    
+         
+    
+        margin-bottom: 20px; 
+    
+    } 
+    
+     
+    
+    input, #enter { 
+    
+        border-radius: 5px; 
+    
+        padding: 5px; 
+    
+        border: 1px solid blue; 
+    
+        margin-top: 30px; 
+    
+        margin-bottom: 20px; 
+    
+        font-size: 1.5em; 
+    
+        
+    
+    } 
+    
+     
+    
+    input { 
+    
+        min-width: 65%; 
+    
+    } 
+    
+     
+    
+    ul>li { 
+    
+        list-style: none; 
+    
+        padding: 10px 20px; 
+    
+        color: #ffffff; 
+    
+        text-transform: capitalize;  /* Setzt alle Buchstaben in Großbuchstaben um  */ 
+    
+        font-weight: 600; 
+    
+        border: 2px solid darkblue; 
+    
+        border-radius: 5px; 
+    
+        margin-bottom: 10px; 
+    
+        background: blue; 
+    
+    } 
+    
+     
+    
+    ul>li:hover { 
+    
+        background: #76CFE0; 
+    
+    } 
+    
+     
+    
+    li > button { 
+    
+        font-weight: normal; 
+    
+        background: none; 
+    
+        border: none; 
+    
+        float: right; 
+    
+        color: white; 
+    
+        font-weight: 800; 
+    
+    } 
+    
+     
+    
+    .done { 
+    
+        background: #51DF70 !important; 
+    
+        color: #00891E; 
+    
+    } 
+    
+     
+    
+    .delete { 
+    
+        display: none; 
+    
+    } 
+    
+     
+    
+     
