@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none
+}
+
+.product-list{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    margin-bottom: 100px;
+
+}
+
+.product{
+    padding: 5px;
+    margin: 10px;
+    flex: 1;
+    background-color: bisque;
+    max-width: 300px;
+  
+}
